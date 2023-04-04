@@ -1,7 +1,5 @@
 # Agile Development Group4 All About Trees
 
-
-
 ## Table of contents
 
 - [Name of project](#Agile-Development-Group4-All-About-Trees)
@@ -22,11 +20,14 @@
 
 ## General info
 
-This is the project where group 4 attempts to recreate [All about trees website](https://talmurshidi.github.io/ABT/).
-We will:
+This is the project where group 4 attempts to recreate
+[All about trees website](https://talmurshidi.github.io/ABT/). We will:
+
 - Plan the repository setup.
-- Create and assign issues on GitHub, while monitoring progress on the project board.
-- Determine what kind of people would use such a website and create user stories.
+- Create and assign issues on GitHub, while monitoring progress on the project
+  board.
+- Determine what kind of people would use such a website and create user
+  stories.
 - Based on the user stories we will create a wireframe for the website.
 - Write and upload the HTML&CSS code for the website.
 
@@ -44,8 +45,6 @@ We will:
 - `npm run start`
 
 ## Code Examples
-
-
 
 ## Features
 
