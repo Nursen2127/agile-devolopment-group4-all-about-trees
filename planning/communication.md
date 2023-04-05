@@ -1,7 +1,8 @@
 # Communication
 
 ## Group Rules
-
+1. we will meet from 20 hr upto 00 hr every day
+2. we will work every step toogether
 <!-- any general rules you'd like to set for your group? -->
 
 ---
@@ -10,7 +11,7 @@
 
 | Day | How | The topic of discussion |
 | --- | :-: | ----------------------- |
-|     |     |                         |
+| 1st    |meeting on zoom     |project the main branchm, create a project board, delete the mistaken old project, add members to the project, create the isssues
 
 ## Communication Channels
 
@@ -30,15 +31,15 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 | Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| _slack_ | 20:00 - 00:00 | 20:00 - 00:00 | 20:00 - 00:00  | 20:00 - 00:00  | 20:00 - 00:00 | 20:00 - 00:00  | 20:00 - 00:00 |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Herbet: _4h_; 
+- Nursen: _4h_;
+- Sachin: _4h_;
+- Amanuel: _4h_;
+
 
 ## Asking for Help
 
