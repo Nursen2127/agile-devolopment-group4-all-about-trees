@@ -2,41 +2,43 @@
 
 ## Group Rules
 
-- Programming can be hard and frustrating but we never give up!
-- Everyone tries to meet everyday at 8pm to discuss what to do.
-- It is ok not to attend the daily meeting as long as we keep in touch and know
-  what to do.
-- We work indivudualy in our free time on issues we created during the meetings.
+<!-- any general rules you'd like to set for your group? -->
 
 ---
 
 ## Communication Schedule
 
-**Daily meetings start at 8pm!!!**
+| Day | How | The topic of discussion |
+| --- | :-: | ----------------------- |
+|     |     |                         |
 
 ## Communication Channels
 
-How often will we get in touch on each channel, and what we will discuss there:
+how often will we get in touch on each channel, and what we will discuss there:
 
-- **Pull Requests**: If a revision is neccessary
-- **Slack/Discord**: Everyday at 20 and if neccessary&possible
-- **Video Calls**: Everyday at 20
+- **Issues**:
+- **Pull Requests**:
+- **GitHub Discussions**
+- **Slack/Discord**:
+- **Video Calls**:
 
 ---
 
+## Availability
+
 ### Availability for calling/messaging
 
-| Day     | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------- | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| Herbert | 20 - 24 | 20 - 24 |  20 - 24  | 20 - 24  | 20 - 24 | 17 - 24  | :-----: |
-| Amanuel | 20 - 24 | 20 - 24 |  20 - 24  | 20 - 24  | 20 - 24 | 17 - 24  | :-----: |
-| Sachin  | 20 - 24 | 20 - 24 |  20 - 24  | 20 - 24  | 20 - 24 | 17 - 24  | :-----: |
-| Nursen  | 14 - 17 | 14 - 17 |  14 - 17  | 14 - 17  | 14 - 17 | 17 - 24  | :-----: |
+| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
+| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
+| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
 
 ### How many hours everyone has per day
 
-Everyone has about 4-5 hours of time they can devote every day, possibly more on
-saturday.
+- name: _5h_; extra comments?
+- name: _6h_;
+- name: _5h_;
+- name: _4h_;
+- name: _3h_;
 
 ## Asking for Help
 
