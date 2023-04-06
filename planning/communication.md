@@ -2,43 +2,41 @@
 
 ## Group Rules
 
-<!-- any general rules you'd like to set for your group? -->
+- Programming can be hard and frustrating but we never give up!
+- Everyone tries to meet everyday at 8pm to discuss what to do.
+- It is ok not to attend the daily meeting as long as we keep in touch and know
+  what to do.
+- We work indivudualy in our free time on issues we created during the meetings.
 
 ---
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+**Daily meetings start at 8pm!!!**
 
 ## Communication Channels
 
-how often will we get in touch on each channel, and what we will discuss there:
+How often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **GitHub Discussions**
-- **Slack/Discord**:
-- **Video Calls**:
+- **Pull Requests**: If a revision is neccessary
+- **Slack/Discord**: Everyday at 20 and if neccessary&possible
+- **Video Calls**: Everyday at 20
 
 ---
 
-## Availability
-
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Day     | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
+| ------- | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
+| Herbert | 20 - 24 | 20 - 24 |  20 - 24  | 20 - 24  | 20 - 24 | 17 - 24  | :-----: |
+| Amanuel | 20 - 24 | 20 - 24 |  20 - 24  | 20 - 24  | 20 - 24 | 17 - 24  | :-----: |
+| Sachin  | 20 - 24 | 20 - 24 |  20 - 24  | 20 - 24  | 20 - 24 | 17 - 24  | :-----: |
+| Nursen  | 14 - 17 | 14 - 17 |  14 - 17  | 14 - 17  | 14 - 17 | 17 - 24  | :-----: |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+Everyone has about 4-5 hours of time they can devote every day, possibly more on
+saturday.
 
 ## Asking for Help
 
